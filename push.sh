@@ -9,7 +9,7 @@ LOCAL_FILE="IPTV-tvbox.txt"
 BRANCH_NAME="main"
 
 # 添加文件到本地仓库
-git add $LOCAL_FILE
+git add .
 
 # 提交更改
 git commit -m "Add file: $LOCAL_FILE"
