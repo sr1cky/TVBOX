@@ -12,6 +12,7 @@
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,https://pull-f5-spe.ixigua.com/yeslivetv.com/303328069-581799927/index.m3u8
