@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# 获取当前时间
+current_time=$(date "+%Y-%m-%d %H:%M:%S")
+
+# 在日志中记录带有时间的信息
+echo "$current_time - 开始执行脚本" >> /path/to/your/logfile.log
+
 # 获取脚本所在的目录
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
@@ -36,4 +42,6 @@ if [ $? -eq 0 ]; then
 else
     echo "执行 auto-iptv/run.sh 失败，无法执行 push.sh。"
 fi
+
+echo "$current_time - 脚本执行完成" >> /path/to/your/logfile.log
 

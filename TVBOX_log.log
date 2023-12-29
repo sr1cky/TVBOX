@@ -303,3 +303,8 @@ All files downloaded successfully!
 执行 auto-source.py...
 将 IPTV-tvbox.txt 文件复制到 TVBOX 文件夹...
 脚本执行完成。
+[main 88c2713] Add file: IPTV-tvbox.txt
+ 2 files changed, 188 insertions(+), 3 deletions(-)
+To github.com:sr1cky/TVBOX.git
+   6d813e0..88c2713  main -> main
+文件推送完成。
