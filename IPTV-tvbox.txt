@@ -15,6 +15,7 @@
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://nas.jdshipin.com:8801/gudoumz.php
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
