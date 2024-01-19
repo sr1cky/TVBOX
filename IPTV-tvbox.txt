@@ -16,6 +16,7 @@
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://nas.jdshipin.com:8801/gudoumz.php
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
