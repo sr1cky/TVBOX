@@ -110,6 +110,7 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551$高清720P
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://sc2022.stream-link.org/tv2306.php?id=t14
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421$高清720P
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森卫视,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8$高清1080P
@@ -123,6 +124,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森超视,https://sc2022.stream-link.org/tv2306.php?id=t30
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影,http://120.84.96.47:808/hls/32/index.m3u8$高清1080P
+东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://pull-f5-spe.ixigua.com/live/rtmvpkgtvvzggyiuuikfvbscvgjktwgfsggsgqrcvuyremgeztxw/index.m3u8$高清1080P
 中天新闻,https://sc2022.stream-link.org/tv2306.php?id=t03
@@ -147,6 +149,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 华视,https://sc2022.stream-link.org/tv2306.php?id=t04
 台视,rtmp://59.124.75.150/sat/tv071$高清720P
 台视,rtmp://59.124.75.138/sat/tv071$高清720P
+台视,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 民视,rtmp://59.124.75.150/sat/tv051$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 广东,#genre#
