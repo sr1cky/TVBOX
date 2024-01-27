@@ -489,6 +489,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 北京卫视,https://tv.iill.top/migu/bjws
 北京卫视,http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+北京卫视,@@ -41
 东方卫视,https://tv.iill.top/bestv/dfws
 东方卫视,https://tv.iill.top/cqyx/shanghaiHD
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
@@ -720,6 +721,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河南卫视,http://192.168.123.1:23234/rtp/239.3.1.27:8128
 河南卫视,http://192.168.123.1:23234/rtp/228.1.1.50:8128
 河南卫视,rtp://228.1.1.50:8128
+河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/f5ed118d09-0-0-e4cdda1425c9a6d56910f30a9bf4466d/index.m3u8
 湖北卫视,https://tv.iill.top/bestv/hubws
 湖北卫视,https://tv.iill.top/cqyx/hubeiSD
 湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
@@ -822,6 +824,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 东南卫视,http://116.23.137.243:4000/rtp/239.77.0.146:5146
 东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
+东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d85f0c09eb-0-0-c74ad3019019687cb5407ff2938accb6/index.m3u8
 厦门卫视,https://cntv.sbs/live?auth=2307280808&id=xmws
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
 厦门卫视,rtp://239.3.1.143:4120
