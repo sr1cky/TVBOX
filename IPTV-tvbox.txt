@@ -59,6 +59,7 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 无线新闻,https://t4.iptv200.com/live/inews/index.m3u8?session=dgzi7iusryrvy2x5ykfvn8rvsbjkjbgm
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8$高清720P
 ViuTV,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 ViuTV,http://r.jdshipin.com/vSJvl
