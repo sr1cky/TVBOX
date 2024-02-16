@@ -98,7 +98,6 @@ RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
-三立新闻,、http://livetv.skycf.eu.org/live.m3u8?c=12
 三立新闻,http://23.237.10.66:16342
 TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -119,7 +118,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影,http://120.84.96.47:808/hls/32/index.m3u8$高清1080P
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://pull-f5-spe.ixigua.com/live/rtmvpkgtvvzggyiuuikfvbscvgjktwgfsggsgqrcvuyremgeztxw/index.m3u8$高清1080P
 龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8$高清720P
