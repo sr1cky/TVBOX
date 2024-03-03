@@ -54,7 +54,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
 TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
-无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
@@ -63,6 +62,7 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 无线新闻,https://t4.iptv200.com/live/inews/index.m3u8?session=dgzi7iusryrvy2x5ykfvn8rvsbjkjbgm
 无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8$高清720P
 ViuTV,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 ViuTV,http://r.jdshipin.com/vSJvl
