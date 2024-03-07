@@ -636,7 +636,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河北卫视,http://116.23.137.243:4000/rtp/239.77.0.148:5146
 河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,https://yang-1989.eu.org/live/hbws
-山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
 山西卫视,rtp://239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
@@ -650,6 +649,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://116.23.137.243:4000/rtp/239.77.0.69:5146
 山西卫视,http://116.23.137.243:4000/rtp/239.77.1.74:5146
 山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
+山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
 山东卫视,https://tv.iill.top/migu/sdws
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
@@ -955,9 +955,9 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 万州影视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
 河北影视,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
 南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
