@@ -899,6 +899,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.0.152:5146
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.1.117:5146
 三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
+三沙卫视,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
 影视,#genre#
 漫威电影,http://epg.112114.xyz/douyu/4282654
 神乐影片2,http://epg.112114.xyz/douyu/85894
