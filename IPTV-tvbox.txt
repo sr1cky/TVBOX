@@ -15,9 +15,11 @@
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://nas.jdshipin.com:8801/gudoumz.php
+明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -161,8 +163,10 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.114:5146
+广东珠江,http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
 广东新闻,http://116.23.137.243:4000/rtp/239.77.0.4:5146
 广东新闻,http://116.23.137.243:4000/rtp/239.77.0.173:5146
+广东新闻,http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
 广东公共,http://116.23.137.243:4000/rtp/239.77.0.5:5146
 广东公共,http://116.23.137.243:4000/rtp/239.77.0.225:5146
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
@@ -170,6 +174,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广东体育,http://116.23.137.243:4000/rtp/239.77.1.97:5146
 广东体育,http://116.23.137.243:4000/rtp/239.77.0.112:5146
 广东体育,http://116.23.137.243:4000/rtp/239.77.0.168:5146
+广东体育,http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 广东国际,http://116.23.137.243:4000/rtp/239.77.0.7:5146
 经济科教,http://116.23.137.243:4000/rtp/239.77.0.8:5146
 经济科教,http://116.23.137.243:4000/rtp/239.77.0.85:5146
@@ -192,6 +197,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 嘉佳卡通,http://192.168.123.1:23234/rtp/228.1.1.93:9268
 嘉佳卡通,rtp://228.1.1.93:9268
 岭南戏曲,http://116.23.137.243:4000/rtp/239.77.0.16:5146
+岭南戏曲,http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
 广东房产,http://116.23.137.243:4000/rtp/239.77.0.14:5146
 现代教育,http://116.23.137.243:4000/rtp/239.77.0.18:5146
 广东移动,http://116.23.137.243:4000/rtp/239.77.0.20:5146
@@ -218,6 +224,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 广州竞赛,https://yang-1989.eu.org/gz/jj
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
+南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
@@ -796,6 +803,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 广西卫视,http://192.168.123.1:23234/rtp/239.3.1.39:8300
 广西卫视,http://192.168.123.1:23234/rtp/228.1.1.80:8300
 广西卫视,rtp://228.1.1.80:8300
+广西卫视,http://36.96.38.246:8888/newlive/live/hls/26/live.m3u8
 云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
@@ -810,6 +818,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 云南卫视,http://192.168.123.1:23234/rtp/239.3.1.26:8108
 云南卫视,http://192.168.123.1:23234/rtp/228.1.1.44:8108
 云南卫视,rtp://228.1.1.44:8108
+云南卫视,http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://221.213.43.82:8888/newlive/live/hls/29/live.m3u8
@@ -851,6 +860,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 新疆卫视,http://192.168.123.1:23234/rtp/239.3.1.48:8160
 新疆卫视,http://192.168.123.1:23234/rtp/228.1.1.56:8160
 新疆卫视,rtp://228.1.1.56:8160
+新疆卫视,http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,https://cntv.sbs/live?auth=2307280808&id=btws
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.0.77:5146
