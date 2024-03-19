@@ -633,7 +633,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河北卫视,http://116.23.137.243:4000/rtp/239.77.0.148:5146
 河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,https://yang-1989.eu.org/live/hbws
-山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
@@ -647,6 +646,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
+山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
