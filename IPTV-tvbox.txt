@@ -18,6 +18,7 @@
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://nas.jdshipin.com:8801/gudoumz.php
 明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
@@ -491,7 +492,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.1.121:5146
 CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 CCTV-17,rtp://239.3.1.151:8144
 卫视,#genre#
-北京卫视,@@ -41
 北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -509,6 +509,7 @@ CCTV-17,rtp://239.3.1.151:8144
 北京卫视,https://yang-1989.eu.org/live/bjws
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,rtp://239.3.1.241:8000
+北京卫视,@@ -41
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
