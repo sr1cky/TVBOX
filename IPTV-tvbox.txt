@@ -1,5 +1,4 @@
 港澳台,#genre#
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
@@ -58,11 +57,11 @@
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
-HBO,http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8$高清1080P
-HBO2,http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+HBO,http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
+HBO2,http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
 TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
@@ -846,13 +845,13 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 东南卫视,http://116.23.137.243:4000/rtp/239.77.0.146:5146
 东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
 东南卫视,https://tv.iill.top/live/dnws
-厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,rtp://239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/228.1.1.176:4120
 厦门卫视,rtp://228.1.1.176:4120
 厦门卫视,https://cntv.sbs/live?auth=2307280808&id=xmws
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 广西卫视,https://yang-1989.eu.org/live/gxws
 广西卫视,rtp://239.3.1.39:8300
 广西卫视,http://192.168.123.1:23234/rtp/239.3.1.39:8300
