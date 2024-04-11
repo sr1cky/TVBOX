@@ -166,6 +166,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
 广东卫视,https://tv.iill.top/live/gdws
 广东卫视,https://itv.lat/tv/live.php?&line=1&id=gdws
+广东卫视,https://pi.0472.org/live/gdws.m3u8?token=240411
 广东珠江,http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
@@ -253,6 +254,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 深圳卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
 深圳卫视,https://tv.iill.top/live/szws
 深圳卫视,https://itv.lat/tv/live.php?&line=1&id=szws
+深圳卫视,https://pi.0472.org/live/szws.m3u8?token=240411
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.242:5146
 深圳体育健康,http://116.23.137.243:4000/rtp/239.77.1.8:5146
@@ -527,6 +529,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
 北京卫视,https://tv.iill.top/live/bjws
 北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
+北京卫视,https://pi.0472.org/live/bjws.m3u8?token=240411
 东方卫视,rtp://239.3.1.136:8032
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
@@ -541,6 +544,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
 东方卫视,https://tv.iill.top/live/dfws
 东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
+东方卫视,https://pi.0472.org/live/dfws.m3u8?token=240411
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 天津卫视,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8
 天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
@@ -556,6 +560,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 天津卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
 天津卫视,https://tv.iill.top/live/tjws
 天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
+天津卫视,https://pi.0472.org/live/tjws.m3u8?token=240411
 重庆卫视,https://sjlivecdn9.cbg.cn/202402080904/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,rtp://239.3.1.122:8160
 重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
@@ -571,6 +576,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,https://tv.iill.top/live/cqws
 重庆卫视,https://itv.lat/tv/live.php?&line=1&id=cqws
+重庆卫视,https://pi.0472.org/live/cqws.m3u8?token=240411
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -588,6 +594,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
 黑龙江卫视,https://tv.iill.top/live/hljws
 黑龙江卫视,https://itv.lat/tv/live.php?&line=1&id=hljws
+黑龙江卫视,https://pi.0472.org/live/hljws.m3u8?token=240411
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林卫视,rtp://239.3.1.240:8172
 吉林卫视,http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8
@@ -619,6 +626,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 辽宁卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
 辽宁卫视,https://tv.iill.top/live/lnws
 辽宁卫视,https://itv.lat/tv/live.php?&line=1&id=lnws
+辽宁卫视,https://pi.0472.org/live/lnws.m3u8?token=240411
 内蒙古卫视,rtp://239.3.1.43:8176
 内蒙古卫视,http://192.168.123.1:23234/rtp/239.3.1.43:8176
 内蒙古卫视,http://192.168.123.1:23234/rtp/228.1.1.59:8176
@@ -697,6 +705,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,https://tv.iill.top/live/hbws
 河北卫视,https://itv.lat/tv/live.php?&line=1&id=hbws
+河北卫视,https://pi.0472.org/live/hbws.m3u8?token=240411
 山西卫视,rtp://239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
@@ -726,6 +735,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 山东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
 山东卫视,https://tv.iill.top/live/sdws
 山东卫视,https://itv.lat/tv/live.php?&line=1&id=sdws
+山东卫视,https://pi.0472.org/live/sdws.m3u8?token=240411
 安徽卫视,rtp://239.3.1.211:8064
 安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
@@ -742,6 +752,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
 安徽卫视,https://tv.iill.top/live/ahws
 安徽卫视,https://itv.lat/tv/live.php?&line=1&id=ahws
+安徽卫视,https://pi.0472.org/live/ahws.m3u8?token=240411
 河南卫视,rtp://239.3.1.27:8128
 河南卫视,http://192.168.123.1:23234/rtp/239.3.1.27:8128
 河南卫视,http://192.168.123.1:23234/rtp/228.1.1.50:8128
@@ -759,6 +770,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
 河南卫视,https://tv.iill.top/live/hnws
 河南卫视,https://itv.lat/tv/live.php?&line=1&id=hnws
+河南卫视,https://pi.0472.org/live/hnws.m3u8?token=240411
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,rtp://239.3.1.138:8044
 湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
@@ -777,6 +789,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
 湖北卫视,https://tv.iill.top/live/hubws
 湖北卫视,https://itv.lat/tv/live.php?&line=1&id=hubws
+湖北卫视,https://pi.0472.org/live/hubws.m3u8?token=240411
 湖南卫视,rtp://239.3.1.132:8012
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
@@ -794,6 +807,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
 湖南卫视,https://tv.iill.top/live/hunws
 湖南卫视,https://itv.lat/tv/live.php?&line=1&id=hunws
+湖南卫视,https://pi.0472.org/live/hunws.m3u8?token=240411
 江西卫视,rtp://239.3.1.123:8164
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 江西卫视,http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
@@ -809,6 +823,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 江西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
 江西卫视,https://tv.iill.top/live/jxws
 江西卫视,https://itv.lat/tv/live.php?&line=1&id=jxws
+江西卫视,https://pi.0472.org/live/jxws.m3u8?token=240411
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,rtp://239.3.1.135:8028
 江苏卫视,http://222.71.90.218:8888/newlive/live/hls/21/live.m3u8
@@ -827,6 +842,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 江苏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
 江苏卫视,https://tv.iill.top/live/jsws
 江苏卫视,https://itv.lat/tv/live.php?&line=1&id=jsws
+江苏卫视,https://pi.0472.org/live/jsws.m3u8?token=240411
 浙江卫视,rtp://239.3.1.137:8036
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
@@ -849,6 +865,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
 浙江卫视,https://tv.iill.top/live/zjws
 浙江卫视,https://itv.lat/tv/live.php?&line=1&id=zjws
+浙江卫视,https://pi.0472.org/live/zjws.m3u8?token=240411
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/3130c5086e-0-0-85b8d52c298b7a1f17cb53bd669a4978/index.m3u8
 东南卫视,rtp://239.3.1.156:8148
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
@@ -864,6 +881,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
 东南卫视,https://tv.iill.top/live/dnws
 东南卫视,https://itv.lat/tv/live.php?&line=1&id=dnws
+东南卫视,https://pi.0472.org/live/dnws.m3u8?token=240411
 厦门卫视,rtp://239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/228.1.1.176:4120
@@ -888,6 +906,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 广西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
 广西卫视,https://tv.iill.top/live/gxws
 广西卫视,https://itv.lat/tv/live.php?&line=1&id=gxws
+广西卫视,https://pi.0472.org/live/gxws.m3u8?token=240411
 云南卫视,rtp://239.3.1.26:8108
 云南卫视,http://192.168.123.1:23234/rtp/239.3.1.26:8108
 云南卫视,http://192.168.123.1:23234/rtp/228.1.1.44:8108
@@ -916,6 +935,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 贵州卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8
 贵州卫视,https://tv.iill.top/live/gzws
 贵州卫视,https://itv.lat/tv/live.php?&line=1&id=gzws
+贵州卫视,https://pi.0472.org/live/gzws.m3u8?token=240411
 四川卫视,rtp://239.3.1.29:8288
 四川卫视,http://192.168.123.1:23234/rtp/239.3.1.29:8288
 四川卫视,http://192.168.123.1:23234/rtp/228.1.1.77:8288
@@ -932,6 +952,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 四川卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8
 四川卫视,https://tv.iill.top/live/scws
 四川卫视,https://itv.lat/tv/live.php?&line=1&id=scws
+四川卫视,https://pi.0472.org/live/scws.m3u8?token=240411
 康巴卫视,http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
 康巴卫视,http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
 康巴卫视,https://cntv.sbs/live?auth=2307280808&id=kbws
@@ -951,6 +972,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 新疆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
 新疆卫视,https://tv.iill.top/live/xjws
 新疆卫视,https://itv.lat/tv/live.php?&line=1&id=xjws
+新疆卫视,https://pi.0472.org/live/xjws.m3u8?token=240411
 兵团卫视,rtp://239.3.1.144:4120
 兵团卫视,http://192.168.123.1:23234/rtp/239.3.1.144:4120
 兵团卫视,http://192.168.123.1:23234/rtp/228.1.1.177:4120
@@ -995,6 +1017,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 海南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
 海南卫视,https://tv.iill.top/live/hinws
 海南卫视,https://itv.lat/tv/live.php?&line=1&id=hinws
+海南卫视,https://pi.0472.org/live/hinws.m3u8?token=240411
 三沙卫视,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
 三沙卫视,rtp://239.3.1.155:4120
 三沙卫视,http://192.168.123.1:23234/rtp/239.3.1.155:4120
