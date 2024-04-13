@@ -52,6 +52,7 @@
 凤凰香港,http://113.64.147.30:808/hls/38/index.m3u8$高清1080P
 凤凰香港,http://113.64.147.20:808/hls/38/index.m3u8$高清1080P
 凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
+凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
@@ -1018,7 +1019,6 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 海南卫视,https://tv.iill.top/live/hinws
 海南卫视,https://itv.lat/tv/live.php?&line=1&id=hinws
 海南卫视,https://pi.0472.org/live/hinws.m3u8?token=240411
-三沙卫视,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
 三沙卫视,rtp://239.3.1.155:4120
 三沙卫视,http://192.168.123.1:23234/rtp/239.3.1.155:4120
 三沙卫视,http://192.168.123.1:23234/rtp/228.1.1.186:4120
