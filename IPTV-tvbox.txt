@@ -52,6 +52,7 @@
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
@@ -59,8 +60,10 @@
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8$高清1080P
 HBO,http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+HBO,http://stream.flynetwifi.com:1936/live/mobile-015/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 HBO2,http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+HBO2,http://stream.flynetwifi.com:1936/live/mobile-094/playlist.m3u8
 TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
 TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
@@ -704,7 +707,6 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 河北卫视,https://tv.iill.top/live/hbws
 河北卫视,https://itv.lat/tv/live.php?&line=1&id=hbws
 河北卫视,https://pi.0472.org/live/hbws.m3u8?token=240411
-山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
@@ -718,6 +720,7 @@ CCTV-17,https://itv.lat/tv/live.php?&line=1&id=cctv17
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
+山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山东卫视,rtp://239.3.1.209:8052
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
