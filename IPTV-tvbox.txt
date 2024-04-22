@@ -1,5 +1,4 @@
 港澳台,#genre#
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
