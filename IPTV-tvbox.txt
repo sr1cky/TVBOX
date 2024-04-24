@@ -17,7 +17,6 @@
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
-凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -40,7 +39,6 @@
 澳门莲花,http://nettvpro.live/hls/lotustv.php$高清1080P
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8$高清1080P
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
-凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8$高清1080P
