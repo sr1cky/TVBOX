@@ -1,5 +1,4 @@
 港澳台,#genre#
-翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
@@ -14,7 +13,6 @@
 翡翠台,http://www.namewee.xyz/gudou.php?id=1350
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -24,11 +22,13 @@
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://tv.iill.top/jd/fhzx
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://tv.iill.top/jd/fhzw
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$高清720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$高清720P
