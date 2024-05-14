@@ -29,7 +29,6 @@
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
-凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
