@@ -4,7 +4,6 @@
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
-凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://tv.iill.top/jd/fhzx
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -30,7 +29,6 @@
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8$高清1080P
 凤凰香港,http://113.64.147.30:808/hls/38/index.m3u8$高清1080P
@@ -184,7 +182,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广州竞赛,http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
 深圳卫视,https://tv.iill.top/live/szws&x=3
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
