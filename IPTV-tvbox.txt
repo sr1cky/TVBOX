@@ -564,7 +564,6 @@ CCTV-17,rtp://239.3.1.151:8144
 宁夏卫视,http://192.168.123.1:23234/rtp/239.3.1.46:8124
 宁夏卫视,http://192.168.123.1:23234/rtp/228.1.1.49:8124
 宁夏卫视,rtp://228.1.1.49:8124
-甘肃卫视,http://118.254.203.236:8888/rtp/239.76.253.94:9000
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 甘肃卫视,https://cntv.sbs/live?auth=2307280808&id=gsws
 甘肃卫视,http://116.23.137.243:4000/rtp/239.77.0.76:5146
@@ -575,7 +574,6 @@ CCTV-17,rtp://239.3.1.151:8144
 甘肃卫视,http://192.168.123.1:23234/rtp/239.3.1.49:8188
 甘肃卫视,http://192.168.123.1:23234/rtp/228.1.1.61:8188
 甘肃卫视,rtp://228.1.1.61:8188
-青海卫视,http://118.254.203.236:8888/rtp/239.76.254.132:9000
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 青海卫视,http://221.213.43.82:8888/newlive/live/hls/39/live.m3u8
 青海卫视,http://222.71.90.218:8888/newlive/live/hls/43/live.m3u8
@@ -591,7 +589,6 @@ CCTV-17,rtp://239.3.1.151:8144
 青海卫视,http://192.168.123.1:23234/rtp/239.3.1.44:8184
 青海卫视,http://192.168.123.1:23234/rtp/228.1.1.60:8184
 青海卫视,rtp://228.1.1.60:8184
-陕西卫视,http://118.254.203.236:8888/rtp/239.76.254.76:9000
 陕西卫视,http://stream.snrtv.com/sxbc-star-chmqQR.m3u8
 陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
@@ -793,7 +790,6 @@ CCTV-17,rtp://239.3.1.151:8144
 广西卫视,http://192.168.123.1:23234/rtp/239.3.1.39:8300
 广西卫视,http://192.168.123.1:23234/rtp/228.1.1.80:8300
 广西卫视,rtp://228.1.1.80:8300
-云南卫视,http://118.254.203.236:8888/rtp/239.76.254.60:9000
 云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
@@ -891,7 +887,6 @@ CCTV-17,rtp://239.3.1.151:8144
 海南卫视,http://192.168.123.1:23234/rtp/239.3.1.45:8304
 海南卫视,http://192.168.123.1:23234/rtp/228.1.1.81:8304
 海南卫视,rtp://228.1.1.81:8304
-三沙卫视,http://118.254.203.236:8888/rtp/239.76.253.74:9000
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://cntv.sbs/live?auth=2307280808&id=ssws
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.0.152:5146
@@ -912,7 +907,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清电影,http://118.254.203.236:8888/rtp/239.76.252.242:9000
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
@@ -922,12 +916,10 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 CHC高清电影,http://116.23.137.243:4000/rtp/239.77.0.27:5146
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-CHC动作电影,http://118.254.203.236:8888/rtp/239.76.252.243:9000
 CHC动作电影,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC家庭影院,http://118.254.203.236:8888/rtp/239.76.252.241:9000
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
