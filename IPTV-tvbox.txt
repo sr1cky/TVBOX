@@ -29,20 +29,18 @@
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
-凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8$高清1080P
 凤凰香港,http://113.64.147.30:808/hls/38/index.m3u8$高清1080P
 凤凰香港,http://113.64.147.20:808/hls/38/index.m3u8$高清1080P
 凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
-HBO,http://stream.flynetwifi.com:1936/live/mobile-015/playlist.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8$高清1080P
-HBO2,http://stream.flynetwifi.com:1936/live/mobile-094/playlist.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
 TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
@@ -612,7 +610,6 @@ CCTV-17,rtp://239.3.1.151:8144
 河北卫视,http://116.23.137.243:4000/rtp/239.77.0.148:5146
 河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,rtp://239.3.1.148:8072
-山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
@@ -625,6 +622,7 @@ CCTV-17,rtp://239.3.1.151:8144
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
+山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山东卫视,https://tv.iill.top/live/sdws&x=3
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
