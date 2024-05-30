@@ -108,7 +108,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视,rtmp://59.124.75.150/sat/tv051$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 广东,#genre#
-广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/da9447e5bb-0-0-f5f61780d2c38572372fb5aafad399f0/index.m3u8
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 广东卫视,http://222.71.90.218:8888/newlive/live/hls/23/live.m3u8
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
@@ -123,6 +122,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广东卫视,http://116.23.137.243:4000/rtp/239.77.0.166:5146
 广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
 广东卫视,rtp://239.3.1.142:8048
+广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/da9447e5bb-0-0-f5f61780d2c38572372fb5aafad399f0/index.m3u8
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -179,7 +179,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳卫视,http://221.213.43.82:8888/newlive/live/hls/28/live.m3u8
@@ -196,6 +195,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.0.130:5146
 深圳卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
 深圳卫视,rtp://239.3.1.134:8020
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.242:5146
 深圳体育健康,http://116.23.137.243:4000/rtp/239.77.1.8:5146
@@ -475,7 +475,6 @@ CCTV-17,rtp://239.3.1.151:8144
 天津卫视,http://116.23.137.243:4000/rtp/239.77.0.97:5146
 天津卫视,http://116.23.137.243:4000/rtp/239.77.0.131:5146
 天津卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
-重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
 重庆卫视,http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,https://cntv.sbs/live?auth=2307280808&id=cqws
@@ -488,6 +487,7 @@ CCTV-17,rtp://239.3.1.151:8144
 重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,rtp://239.3.1.122:8160
 重庆卫视,https://sjlivecdn9.cbg.cn/202402080904/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -515,7 +515,6 @@ CCTV-17,rtp://239.3.1.151:8144
 吉林卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
 吉林卫视,rtp://239.3.1.240:8172
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
-辽宁卫视,https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/8a3a2fd2cf-0-0-3d689a5c5d9fd77adfec7c402da05854/index.m3u8
 辽宁卫视,http://222.71.90.218:8888/newlive/live/hls/31/live.m3u8
 辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 辽宁卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
@@ -531,6 +530,7 @@ CCTV-17,rtp://239.3.1.151:8144
 辽宁卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
 辽宁卫视,rtp://239.3.1.210:8056
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/cc6dfe3ec4-0-0-bbf13622ebc736a4efdbd3405c088fe2/index.m3u8
+辽宁卫视,https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/8a3a2fd2cf-0-0-3d689a5c5d9fd77adfec7c402da05854/index.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
@@ -738,7 +738,6 @@ CCTV-17,rtp://239.3.1.151:8144
 浙江卫视,http://116.23.137.243:4000/rtp/239.77.0.125:5146
 浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
 浙江卫视,rtp://239.3.1.137:8036
-东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
 东南卫视,http://222.71.90.218:8888/newlive/live/hls/29/live.m3u8
 东南卫视,http://api3.52tb.xyz/info?id=29&token=20230227aesvnb
 东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8?
@@ -751,6 +750,7 @@ CCTV-17,rtp://239.3.1.151:8144
 东南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
 东南卫视,rtp://239.3.1.156:8148
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/3130c5086e-0-0-85b8d52c298b7a1f17cb53bd669a4978/index.m3u8
+东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
 厦门卫视,https://cntv.sbs/live?auth=2307280808&id=xmws
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
@@ -847,7 +847,6 @@ CCTV-17,rtp://239.3.1.151:8144
 西藏卫视,http://192.168.123.1:23234/rtp/228.1.1.57:8164
 西藏卫视,rtp://228.1.1.57:8164
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=6673493b35914117fd4f87de0189cd17&time=65c440b5
-海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
@@ -864,6 +863,7 @@ CCTV-17,rtp://239.3.1.151:8144
 海南卫视,http://192.168.123.1:23234/rtp/228.1.1.81:8304
 海南卫视,rtp://228.1.1.81:8304
 海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://cntv.sbs/live?auth=2307280808&id=ssws
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.0.152:5146
