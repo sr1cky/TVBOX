@@ -108,7 +108,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视,rtmp://59.124.75.150/sat/tv051$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 广东,#genre#
-广东卫视,rtp://239.3.1.142:8048
 广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/da9447e5bb-0-0-f5f61780d2c38572372fb5aafad399f0/index.m3u8
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
@@ -180,7 +179,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,rtp://239.3.1.134:8020
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
 深圳卫视,http://222.71.90.218:8888/newlive/live/hls/24/live.m3u8
@@ -224,7 +222,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 中山教育,http://116.23.137.243:4000/rtp/239.253.43.61:5146
 中山教育,http://116.23.137.243:4000/rtp/239.253.43.64:5146
 央视,#genre#
-CCTV-1,rtp://239.3.1.129:8008
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1,http://222.71.90.218:8888/newlive/live/hls/2/live.m3u8
 CCTV-1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
@@ -237,7 +234,6 @@ CCTV-1,http://116.23.137.243:4000/rtp/239.77.1.17:5146
 CCTV-1,http://116.23.137.243:4000/rtp/239.77.1.144:5146
 CCTV-1,http://116.23.137.243:4000/rtp/239.77.0.86:5146
 CCTV-1,http://116.23.137.243:4000/rtp/239.77.0.129:5146
-CCTV-2,rtp://239.3.1.60:8084
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV-2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
@@ -250,7 +246,6 @@ CCTV-2,http://116.23.137.243:4000/rtp/239.77.1.28:5146
 CCTV-2,http://116.23.137.243:4000/rtp/239.77.1.158:5146
 CCTV-2,http://116.23.137.243:4000/rtp/239.253.43.17:5146
 CCTV-2,http://116.23.137.243:4000/rtp/239.77.0.137:5146
-CCTV-3,rtp://239.3.1.172:8001
 CCTV-3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV-3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
 CCTV-3,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
@@ -260,7 +255,6 @@ CCTV-3,http://116.23.137.243:4000/rtp/239.0.10.52:5052
 CCTV-3,http://116.23.137.243:4000/rtp/239.77.0.32:5146
 CCTV-3,http://116.23.137.243:4000/rtp/239.77.0.169:5146
 CCTV-3,http://116.23.137.243:4000/rtp/239.77.0.175:5146
-CCTV-4,rtp://239.3.1.105:8092
 CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV-4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
@@ -273,7 +267,6 @@ CCTV-4,http://116.23.137.243:4000/rtp/239.77.1.41:5146
 CCTV-4,http://116.23.137.243:4000/rtp/239.77.1.163:5146
 CCTV-4,http://116.23.137.243:4000/rtp/239.77.1.166:5146
 CCTV-4,http://116.23.137.243:4000/rtp/239.77.0.78:5146
-CCTV-5,rtp://239.3.1.173:8001
 CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
@@ -298,7 +291,6 @@ CCTV-5+,http://116.23.137.243:4000/rtp/239.77.1.146:5146
 CCTV-5+,http://116.23.137.243:4000/rtp/239.77.0.87:5146
 CCTV-5+,http://116.23.137.243:4000/rtp/239.77.1.31:5146
 CCTV-5+,http://116.23.137.243:4000/rtp/239.77.1.147:5146
-CCTV-6,rtp://239.3.1.174:8001
 CCTV-6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV-6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV-6,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
@@ -310,7 +302,6 @@ CCTV-6,http://116.23.137.243:4000/rtp/239.0.10.54:5054
 CCTV-6,http://116.23.137.243:4000/rtp/239.77.0.35:5146
 CCTV-6,http://116.23.137.243:4000/rtp/239.77.0.171:5146
 CCTV-6,http://116.23.137.243:4000/rtp/239.77.0.178:5146
-CCTV-7,rtp://239.3.1.61:8104
 CCTV-7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV-7,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
 CCTV-7,http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5
@@ -322,7 +313,6 @@ CCTV-7,http://116.23.137.243:4000/rtp/239.77.1.24:5146
 CCTV-7,http://116.23.137.243:4000/rtp/239.77.1.159:5146
 CCTV-7,http://116.23.137.243:4000/rtp/239.77.1.167:5146
 CCTV-7,http://116.23.137.243:4000/rtp/239.77.0.138:5146
-CCTV-8,rtp://239.3.1.175:8001
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV-8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
@@ -336,7 +326,6 @@ CCTV-8,http://116.23.137.243:4000/rtp/239.0.10.55:5055
 CCTV-8,http://116.23.137.243:4000/rtp/239.77.0.37:5146
 CCTV-8,http://116.23.137.243:4000/rtp/239.77.0.172:5146
 CCTV-8,http://116.23.137.243:4000/rtp/239.77.0.181:5146
-CCTV-9,rtp://239.3.1.62:8112
 CCTV-9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV-9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV-9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
@@ -349,7 +338,6 @@ CCTV-9,http://116.23.137.243:4000/rtp/239.77.1.65:5146
 CCTV-9,http://116.23.137.243:4000/rtp/239.77.1.160:5146
 CCTV-9,http://116.23.137.243:4000/rtp/239.77.1.168:5146
 CCTV-9,http://116.23.137.243:4000/rtp/239.77.0.135:5146
-CCTV-10,rtp://239.3.1.63:8116
 CCTV-10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV-10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
 CCTV-10,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
@@ -362,7 +350,6 @@ CCTV-10,http://116.23.137.243:4000/rtp/239.77.1.25:5146
 CCTV-10,http://116.23.137.243:4000/rtp/239.77.1.113:5146
 CCTV-10,http://116.23.137.243:4000/rtp/239.77.1.169:5146
 CCTV-10,http://116.23.137.243:4000/rtp/239.77.0.134:5146
-CCTV-11,rtp://239.3.1.152:8120
 CCTV-11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
 CCTV-11,http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
 CCTV-11,http://59.47.226.94:8880/sql/2602/hls.m3u8
@@ -371,7 +358,6 @@ CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 CCTV-11,http://116.23.137.243:4000/rtp/239.77.0.40:5146
 CCTV-11,http://116.23.137.243:4000/rtp/239.77.1.42:5146
 CCTV-11,http://116.23.137.243:4000/rtp/239.77.1.238:5146
-CCTV-12,rtp://239.3.1.64:8124
 CCTV-12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 CCTV-12,http://cyz32.livehbindex.hbcatv.cn/live/fbe7688bc539461da71ff649e4ba1d75.m3u8?bitrate=2300&pt=5
 CCTV-12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
@@ -382,7 +368,6 @@ CCTV-12,http://116.23.137.243:4000/rtp/239.77.1.10:5146
 CCTV-12,http://116.23.137.243:4000/rtp/239.77.1.109:5146
 CCTV-12,http://116.23.137.243:4000/rtp/239.77.1.170:5146
 CCTV-12,http://116.23.137.243:4000/rtp/239.77.0.136:5146
-CCTV-13,rtp://239.3.1.124:8128
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
@@ -395,7 +380,6 @@ CCTV-13,http://116.23.137.243:4000/rtp/239.77.0.42:5146
 CCTV-13,http://116.23.137.243:4000/rtp/239.77.1.26:5146
 CCTV-13,http://116.23.137.243:4000/rtp/239.77.0.188:5146
 CCTV-13,http://116.23.137.243:4000/rtp/239.253.43.196:5146
-CCTV-14,rtp://239.3.1.65:8132
 CCTV-14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV-14,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
@@ -408,7 +392,6 @@ CCTV-14,http://116.23.137.243:4000/rtp/239.77.1.43:5146
 CCTV-14,http://116.23.137.243:4000/rtp/239.77.1.161:5146
 CCTV-14,http://116.23.137.243:4000/rtp/239.77.1.171:5146
 CCTV-14,http://116.23.137.243:4000/rtp/239.77.0.133:5146
-CCTV-15,rtp://239.3.1.153:8136
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV-15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
@@ -418,14 +401,12 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-15,http://116.23.137.243:4000/rtp/239.77.0.44:5146
 CCTV-15,http://116.23.137.243:4000/rtp/239.77.1.11:5146
 CCTV-15,http://116.23.137.243:4000/rtp/239.77.1.239:5146
-CCTV-16,rtp://239.3.1.184:8001
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16,https://cntv.sbs/live?auth=2307280808&id=cctv16
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16,http://116.23.137.243:4000/rtp/239.77.1.76:5146
 CCTV-16,http://116.23.137.243:4000/rtp/239.77.1.98:5146
-CCTV-17,rtp://239.3.1.151:8144
 CCTV-17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
 CCTV-17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 CCTV-17,https://cntv.sbs/live?auth=2307280808&id=cctv17
@@ -435,7 +416,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.1.123:5146
 CCTV-17,http://116.23.137.243:4000/rtp/239.77.1.121:5146
 CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 卫视,#genre#
-北京卫视,rtp://239.3.1.241:8000
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,@@ -41
 北京卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/1300.m3u8
@@ -453,7 +433,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 北京卫视,http://116.23.137.243:4000/rtp/239.77.1.151:5146
 北京卫视,http://116.23.137.243:4000/rtp/239.77.0.91:5146
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
-东方卫视,rtp://239.3.1.136:8032
 东方卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
@@ -480,7 +459,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 天津卫视,http://116.23.137.243:4000/rtp/239.77.0.97:5146
 天津卫视,http://116.23.137.243:4000/rtp/239.77.0.131:5146
 天津卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
-重庆卫视,rtp://239.3.1.122:8160
 重庆卫视,https://sjlivecdn9.cbg.cn/202402080904/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202406011414/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -510,7 +488,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.0.93:5146
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.0.124:5146
 黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
-吉林卫视,rtp://239.3.1.240:8172
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林卫视,http://stream1.jlntv.cn/jlws/playlist.m3u8
 吉林卫视,http://222.71.90.218:8888/newlive/live/hls/41/live.m3u8
@@ -524,7 +501,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 吉林卫视,http://116.23.137.243:4000/rtp/239.77.0.150:5146
 吉林卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
 吉林卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/2300.m3u8
-辽宁卫视,rtp://239.3.1.210:8056
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/cc6dfe3ec4-0-0-bbf13622ebc736a4efdbd3405c088fe2/index.m3u8
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/8a3a2fd2cf-0-0-3d689a5c5d9fd77adfec7c402da05854/index.m3u8
 辽宁卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/2300.m3u8
@@ -606,7 +582,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 陕西卫视,http://116.23.137.243:4000/rtp/239.77.1.54:5146
 陕西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8
 陕西卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
-河北卫视,rtp://239.3.1.148:8072
 河北卫视,http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
@@ -633,7 +608,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://116.23.137.243:4000/rtp/239.77.1.74:5146
 山西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/u3sh8sV.m3u8
-山东卫视,rtp://239.3.1.209:8052
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
@@ -647,7 +621,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山东卫视,http://116.23.137.243:4000/rtp/239.77.0.94:5146
 山东卫视,http://116.23.137.243:4000/rtp/239.77.0.132:5146
 山东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
-安徽卫视,rtp://239.3.1.211:8064
 安徽卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
 安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://222.71.90.218:8888/newlive/live/hls/28/live.m3u8
@@ -677,7 +650,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河南卫视,http://116.23.137.243:4000/rtp/239.77.1.229:5146
 河南卫视,http://116.23.137.243:4000/rtp/239.77.0.17:5146
 河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
-湖北卫视,rtp://239.3.1.138:8044
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
 湖北卫视,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8
@@ -694,7 +666,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.0.95:5146
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.0.128:5146
 湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
-湖南卫视,rtp://239.3.1.132:8012
 湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8
@@ -711,7 +682,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 湖南卫视,http://116.23.137.243:4000/rtp/239.77.0.127:5146
 湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
 湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
-江西卫视,rtp://239.3.1.123:8164
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 江西卫视,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
 江西卫视,http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
@@ -725,7 +695,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 江西卫视,http://116.23.137.243:4000/rtp/239.77.1.219:5146
 江西卫视,http://116.23.137.243:4000/rtp/239.77.0.149:5146
 江西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
-江苏卫视,rtp://239.3.1.135:8028
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
 江苏卫视,http://222.71.90.218:8888/newlive/live/hls/21/live.m3u8
@@ -742,7 +711,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 江苏卫视,http://116.23.137.243:4000/rtp/239.77.0.90:5146
 江苏卫视,http://116.23.137.243:4000/rtp/239.77.0.126:5146
 江苏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
-浙江卫视,rtp://239.3.1.137:8036
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
@@ -763,7 +731,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 浙江卫视,http://116.23.137.243:4000/rtp/239.77.0.89:5146
 浙江卫视,http://116.23.137.243:4000/rtp/239.77.0.125:5146
 浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
-东南卫视,rtp://239.3.1.156:8148
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/3130c5086e-0-0-85b8d52c298b7a1f17cb53bd669a4978/index.m3u8
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
 东南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
@@ -812,7 +779,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 云南卫视,http://116.23.137.243:4000/rtp/239.253.43.37:5146
 云南卫视,http://116.23.137.243:4000/rtp/239.253.43.100:5146
 云南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
-贵州卫视,rtp://239.3.1.149:8076
 贵州卫视,http://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=4a9d1955dcbccbf648dff7624ebadf53&txTime=665AD640
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
@@ -959,7 +925,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 长沙影视,https://hls.quklive.com/live/1551749282880742/index.m3u8
-北京影视,rtp://239.3.1.158:8000
 北京影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
