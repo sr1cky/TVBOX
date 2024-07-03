@@ -4,7 +4,7 @@
 current_time=$(date "+%Y-%m-%d %H:%M:%S")
 
 # 在日志中记录带有时间的信息
-echo "$current_time - 开始执行脚本" >> /root/logs/TVBOX.log
+echo "$current_time - 开始执行脚本" >> /root/TVBOX/TVBOX_log.log
 
 # 获取脚本所在的目录
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
