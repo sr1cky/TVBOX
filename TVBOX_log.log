@@ -27376,3 +27376,172 @@ All files downloaded successfully!
 执行 auto-source.py...
 将 IPTV-tvbox.txt 文件复制到 TVBOX 文件夹...
 脚本执行完成。
+[main 8198d7c] Add file: IPTV-tvbox.txt
+ 2 files changed, 177 insertions(+)
+To github.com:sr1cky/TVBOX.git
+   822612f..8198d7c  main -> main
+文件推送完成。
+2024-07-04 15:00:01 - 脚本执行完成
+2024-07-05 15:00:01 - 开始执行脚本
+执行 auto-iptv/run.sh...
+执行 spider.sh...
+Extracted links for '翡翠台':
+翡翠台,http://www.namewee.xyz/gudou.php?id=1350
+翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+翡翠台,https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+翡翠台,https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+Search results for '翡翠台' saved to /root/auto-iptv/spider/txt/tvb_jade.txt
+Extracted links for '明珠台':
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,https://z02.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+明珠台,https://z02.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
+明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+明珠台,http://www.namewee.xyz/gudou.php?id=364&id=1351_4500
+明珠台,http://8.137.59.151:99/fhtv/fenghuang.php?id=12
+明珠台,http://www.namewee.xyz/gudou.php?id=1351
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
+Search results for '明珠台' saved to /root/auto-iptv/spider/txt/mingzhu.txt
+Extracted links for '无线新闻':
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+无线新闻,http://8.137.59.151:99/fhtv/fenghuang.php?id=5
+无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻,http://120.79.160.134:8066/HK/wxxw/hls.m3u8
+无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+Search results for '无线新闻' saved to /root/auto-iptv/spider/txt/tvb_news.txt
+Extracted links for 'ViuTV':
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
+ViuTV,https://z02.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
+ViuTV,https://z02.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+ViuTV,https://z02.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+ViuTV,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
+Search results for 'ViuTV' saved to /root/auto-iptv/spider/txt/ViuTV.txt
+执行 m3u.sh...
+--2024-07-05 15:00:12--  https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYyNTI0MjU0NTQsImlhdCI6MTcwMzcyNTM0MSwiZXhwIjoxNzA2MzE3MzQxfQ.YaH-kyL1eySTSBwLcwjucDOAe34f_TJQ4WeCgB2HUao
+Resolving gyssi.link (gyssi.link)... 104.21.32.112, 172.67.151.20, 2606:4700:3032::ac43:9714, ...
+Connecting to gyssi.link (gyssi.link)|104.21.32.112|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
+Traceback (most recent call last):
+  File "/root/auto-iptv/m3u/m3u2txt.py", line 11, in <module>
+    file_head = lines[0].split('name="')[1].split('"')[0]
+IndexError: list index out of range
+执行 down_txt.sh...
+--2024-07-05 15:00:16--  https://tv.lan2wan.top/live.txt
+Resolving tv.lan2wan.top (tv.lan2wan.top)... 76.76.21.9, 76.76.21.164
+Connecting to tv.lan2wan.top (tv.lan2wan.top)|76.76.21.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187880 (183K) [text/plain]
+Saving to: ‘./txt/live.txt’
+
+     0K .......... .......... .......... .......... .......... 27% 6.06M 0s
+    50K .......... .......... .......... .......... .......... 54% 28.0M 0s
+   100K .......... .......... .......... .......... .......... 81% 59.5M 0s
+   150K .......... .......... .......... ...                  100%  130M=0.01s
+
+2024-07-05 15:00:16 (16.5 MB/s) - ‘./txt/live.txt’ saved [187880/187880]
+
+Downloaded: /root/auto-iptv/txt/txt/fmml_ipv6.txt
+Downloaded: /root/auto-iptv/txt/txt/fmml_dv6.txt
+Downloaded: /root/auto-iptv/txt/txt/ycl_iptv.txt
+Downloaded: /root/auto-iptv/txt/txt/y_g.txt
+Downloaded: /root/auto-iptv/txt/txt/j_home.txt
+Downloaded: /root/auto-iptv/txt/txt/j_iptv.txt
+Downloaded: /root/auto-iptv/txt/txt/m_iptv.txt
+Downloaded: /root/auto-iptv/txt/txt/o_all.txt
+Downloaded: /root/auto-iptv/txt/txt/o_cn.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_112114.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_cctv.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_cgtn.txt
+Downloaded: /root/auto-iptv/txt/txt/cn.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_n.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_c.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_p.txt
+Downloaded: /root/auto-iptv/txt/txt/all.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_unicom.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_unicom_m.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_mobile.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_mobile_m.txt
+All files downloaded successfully!
+全部文件已转换成功!
+执行 txt2db.py...
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+执行 auto-source.py...
+将 IPTV-tvbox.txt 文件复制到 TVBOX 文件夹...
+脚本执行完成。
