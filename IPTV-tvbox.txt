@@ -13,6 +13,7 @@
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
@@ -24,6 +25,8 @@
 明珠台,http://www.namewee.xyz/gudou.php?id=1351
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
+明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/3
+明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/202
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 凤凰资讯,http://116.162.6.191/1301-txt.sichuan.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
@@ -79,6 +82,7 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻,http://120.79.160.134:8066/HK/wxxw/hls.m3u8
 无线新闻,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+无线新闻,https://live.yzd.jialiangos.com:4443/live/fhw/13
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8$高清720P
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
 ViuTV,https://z02.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
@@ -90,6 +94,9 @@ ViuTV,https://z02.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/in
 ViuTV,https://z02.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
 ViuTV,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
+ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/193
+ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/19
+ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/20
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8$高清720P
 ViuTV6,https://pull-l3-cny.douyincdn.com:443/live/e7af863905ba1411658aafc3374dd4ba.flv
 TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
