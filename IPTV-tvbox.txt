@@ -14,6 +14,7 @@
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
@@ -100,6 +101,8 @@ ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/193
 ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/19
 ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/20
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
+ViuTV,https://live.astradamy.com/viutv6/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8$高清720P
 ViuTV6,https://pull-l3-cny.douyincdn.com:443/live/e7af863905ba1411658aafc3374dd4ba.flv
 TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
