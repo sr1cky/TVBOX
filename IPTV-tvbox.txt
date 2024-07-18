@@ -29,7 +29,6 @@
 明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/3
 明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/202
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -37,11 +36,12 @@
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清1080P
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清720P
 凤凰资讯,http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
+凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$高清720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$高清720P
@@ -53,13 +53,13 @@
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8$高清1080P
 凤凰香港,http://113.64.147.30:808/hls/38/index.m3u8$高清1080P
 凤凰香港,http://113.64.147.20:808/hls/38/index.m3u8$高清1080P
 凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307280808
+凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
@@ -554,6 +554,7 @@ CCTV-17,rtp://239.3.1.151:8144
 重庆卫视,https://sjlivecdn9.cbg.cn/202407041050/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202407091435/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202407091235/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,https://sjlivecdn9.cbg.cn/202407181613/app_2/_definst_/ls_2.stream/chunklist.m3u8
 黑龙江卫视,http://222.71.90.218:8888/newlive/live/hls/25/live.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -655,6 +656,7 @@ CCTV-17,rtp://239.3.1.151:8144
 青海卫视,http://192.168.123.1:23234/rtp/239.3.1.44:8184
 青海卫视,http://192.168.123.1:23234/rtp/228.1.1.60:8184
 青海卫视,rtp://228.1.1.60:8184
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=5cab9e811721296983
 陕西卫视,http://stream.snrtv.com/sxbc-star-uAGMRT.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-gruCP5.m3u8
 陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
@@ -670,6 +672,7 @@ CCTV-17,rtp://239.3.1.151:8144
 陕西卫视,http://192.168.123.1:23234/rtp/239.3.1.41:8140
 陕西卫视,http://192.168.123.1:23234/rtp/228.1.1.53:8140
 陕西卫视,rtp://228.1.1.53:8140
+陕西卫视,http://stream.snrtv.com/sxbc-star-ejmJKO.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
@@ -702,6 +705,7 @@ CCTV-17,rtp://239.3.1.151:8144
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/0sqbR0W.m3u8
 山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
@@ -904,6 +908,7 @@ CCTV-17,rtp://239.3.1.151:8144
 贵州卫视,http://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=3255cad79436ec3da7a8a586fa2caf22&txTime=66861C75
 贵州卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=c2389ebe3248f5e8bb2be6ba564202250815c1ffce8bf911a01e5e09705f6576_1720509315_604800&fromCDN=ws
 贵州卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=6a5915a95f060a962a33247245c37399e22ab840d24f185001a19bada4f32095_1720505218_604800&fromCDN=ws
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=f34983ae4b1cc2bf3188bfde612f2294&txTime=6698DAD5
 四川卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
 四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
@@ -971,6 +976,7 @@ CCTV-17,rtp://239.3.1.151:8144
 西藏卫视,http://192.168.123.1:23234/rtp/239.3.1.47:8164
 西藏卫视,http://192.168.123.1:23234/rtp/228.1.1.57:8164
 西藏卫视,rtp://228.1.1.57:8164
+西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=867792b422ef77baa119b51427565737&time=6698dfe5
 海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=f3f317521718851919
 海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=a7558c3e1719041616
 海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=92b6c2e81719034236
@@ -994,6 +1000,7 @@ CCTV-17,rtp://239.3.1.151:8144
 海南卫视,http://192.168.123.1:23234/rtp/239.3.1.45:8304
 海南卫视,http://192.168.123.1:23234/rtp/228.1.1.81:8304
 海南卫视,rtp://228.1.1.81:8304
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=5d5d3d8b1721297957
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=62b54c971718856400
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=e90534511719044712
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=8ccc41dc1719037383
@@ -1011,6 +1018,7 @@ CCTV-17,rtp://239.3.1.151:8144
 三沙卫视,http://192.168.123.1:23234/rtp/239.3.1.155:4120
 三沙卫视,http://192.168.123.1:23234/rtp/228.1.1.186:4120
 三沙卫视,rtp://228.1.1.186:4120
+三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=3580169c1721297728
 影视,#genre#
 漫威电影,http://epg.112114.xyz/douyu/4282654
 神乐影片2,http://epg.112114.xyz/douyu/85894
