@@ -1,12 +1,9 @@
 港澳台,#genre#
-翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/3
-明珠台,https://live.yzd.jialiangos.com:4443/live/fhw/202
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰资讯,http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
@@ -47,10 +44,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
 TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
-无线新闻,https://live.yzd.jialiangos.com:4443/live/fhw/13
-ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/193
-ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/19
-ViuTV,https://live.yzd.jialiangos.com:4443/live/fhw/20
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8
 ViuTV,https://live.astradamy.com/viutv6/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
