@@ -947,7 +947,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 新疆卫视,http://116.23.137.243:4000/rtp/239.77.0.75:5146
 新疆卫视,http://116.23.137.243:4000/rtp/239.77.1.53:5146
 新疆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 兵团卫视,rtp://239.3.1.144:4120
 兵团卫视,http://192.168.123.1:23234/rtp/239.3.1.144:4120
 兵团卫视,http://192.168.123.1:23234/rtp/228.1.1.177:4120
@@ -958,6 +957,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.0.77:5146
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.1.80:5146
 兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=b687f7fb9bc4d5c44a0ef2dbca68f900&time=668ce3de
 西藏卫视,https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ae96e9569da6f90946c83f3729ec5fbc&time=668cd3b4
 西藏卫视,rtp://239.3.1.47:8164
