@@ -161,6 +161,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广东卫视,http://171.108.239.127:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://171.108.239.128:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://14.204.46.68:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://118.81.98.130:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -282,6 +283,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 深圳卫视,http://112.193.42.175:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://121.24.98.21:8090/hls/84/index.m3u8
 深圳卫视,http://14.204.46.68:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://118.81.98.130:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳电视剧,http://222.217.246.108:8181/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳电视剧,http://180.137.22.80:8181/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
@@ -635,6 +637,7 @@ CCTV-17,rtp://239.3.1.151:8144
 天津卫视,http://171.108.239.127:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://171.108.239.124:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://14.204.46.68:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://118.81.98.130:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.94.1.118:8801/tsfile/live/0142_1.m3u8
 重庆卫视,http://58.23.26.184:9901/tsfile/live/0142_1.m3u8
 重庆卫视,rtp://239.3.1.122:8160
@@ -1050,6 +1053,7 @@ CCTV-17,rtp://239.3.1.151:8144
 山东卫视,http://112.193.42.175:9901/tsfile/live/faacts/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://121.24.98.21:8090/hls/39/index.m3u8
 山东卫视,http://14.204.46.68:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://118.81.98.130:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://183.94.1.118:8801/tsfile/live/0130_1.m3u8
 安徽卫视,http://117.27.190.42:9998/tsfile/live/23262_1.m3u8
 安徽卫视,rtp://239.3.1.211:8064
