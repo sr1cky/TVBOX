@@ -840,7 +840,6 @@ CCTV-17,rtp://239.3.1.151:8144
 辽宁卫视,rtp://239.3.1.210:8056
 辽宁卫视,http://221.205.131.146:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://183.185.247.158:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://119.164.84.109:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
@@ -872,6 +871,7 @@ CCTV-17,rtp://239.3.1.151:8144
 内蒙古卫视,http://14.204.46.68:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://171.108.239.122:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://171.108.239.126:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://222.71.90.218:8888/newlive/live/hls/42/live.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
