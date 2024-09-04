@@ -1340,7 +1340,6 @@ CCTV-17,rtp://239.3.1.151:8144
 江苏卫视,rtp://239.3.1.135:8028
 江苏卫视,http://221.205.131.146:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://183.185.247.158:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -1624,7 +1623,6 @@ CCTV-17,rtp://239.3.1.151:8144
 新疆卫视,rtp://228.1.1.56:8160
 新疆卫视,http://171.108.239.126:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://171.108.239.122:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,https://cntv.sbs/live?auth=2307280808&id=btws
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.0.77:5146
@@ -1643,6 +1641,7 @@ CCTV-17,rtp://239.3.1.151:8144
 兵团卫视,http://171.108.239.122:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://171.108.239.126:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://222.84.192.148:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 西藏卫视,http://222.71.90.218:8888/newlive/live/hls/44/live.m3u8
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
