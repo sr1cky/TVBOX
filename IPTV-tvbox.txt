@@ -1623,7 +1623,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 新疆卫视,http://116.23.137.243:4000/rtp/239.77.0.75:5146
 新疆卫视,http://116.23.137.243:4000/rtp/239.77.1.53:5146
 新疆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 兵团卫视,http://171.124.80.242:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://171.108.239.124:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://171.108.239.129:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
