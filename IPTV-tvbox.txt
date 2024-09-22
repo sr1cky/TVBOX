@@ -110,7 +110,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视,rtmp://59.124.75.150/sat/tv051$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 广东,#genre#
-广东卫视,http://118.81.98.130:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://171.108.239.126:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://222.84.192.147:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://171.108.239.122:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -201,7 +200,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,http://118.81.98.130:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://222.84.192.147:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://222.84.192.148:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,rtp://239.3.1.134:8020
@@ -501,7 +499,6 @@ CCTV-17,rtp://239.3.1.151:8144
 东方卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
 东方卫视,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
 东方卫视,http://124.165.251.82:9999/tsfile/live/0107_1.m3u8
-天津卫视,http://118.81.98.130:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://171.108.239.126:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://222.84.192.148:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://171.108.239.122:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -712,7 +709,6 @@ CCTV-17,rtp://239.3.1.151:8144
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
-山东卫视,http://118.81.98.130:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://171.108.239.122:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://171.108.239.126:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://222.84.192.147:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
