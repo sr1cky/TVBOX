@@ -543,7 +543,6 @@ CCTV-17,rtp://239.3.1.151:8144
 辽宁卫视,http://121.18.43.254:10000/hls/30/index.m3u8
 辽宁卫视,http://121.24.98.226:8090/hls/59/index.m3u8
 辽宁卫视,rtp://239.3.1.210:8056
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
