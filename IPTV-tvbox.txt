@@ -791,7 +791,6 @@ CCTV-17,rtp://239.3.1.151:8144
 东南卫视,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
 东南卫视,http://121.24.98.226:8090/hls/36/index.m3u8
 东南卫视,rtp://239.3.1.156:8148
-厦门卫视,http://124.128.73.58:9901/tsfile/live/0129_1.m3u8
 厦门卫视,https://cntv.sbs/live?auth=2307280808&id=xmws
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
 厦门卫视,http://124.94.193.136:9902/tsfile/live/0129_1.m3u8
