@@ -6,7 +6,6 @@
 HBO,http://178.219.128.68:64888/HBOHD
 ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8
 广东,#genre#
-广东卫视,rtp://239.3.1.142:8048
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
 广东卫视,http://116.23.137.243:4000/rtp/239.77.0.2:5146
 广东卫视,http://116.23.137.243:4000/rtp/239.77.1.2:5146
@@ -19,6 +18,7 @@ ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u
 广东卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 广东卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws
 广东卫视,http://gslbserv.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
+广东卫视,rtp://239.3.1.142:8048
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -69,7 +69,6 @@ ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,rtp://239.3.1.134:8020
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.0.55:5146
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.1.21:5146
@@ -81,6 +80,7 @@ ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u
 深圳卫视,http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 深圳卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws
 深圳卫视,http://gslbserv.itv.cmvideo.cn/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
+深圳卫视,rtp://239.3.1.134:8020
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.242:5146
 深圳体育健康,http://116.23.137.243:4000/rtp/239.77.1.8:5146
@@ -235,7 +235,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 CCTV-17,rtp://239.3.1.151:8144
 CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 卫视,#genre#
-北京卫视,rtp://239.3.1.241:8000
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 北京卫视,http://116.23.137.243:4000/rtp/239.77.0.51:5146
 北京卫视,http://116.23.137.243:4000/rtp/239.77.1.14:5146
@@ -246,7 +245,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 北京卫视,http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHX6pFJlsKFX2elUkY7G9WuYMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 北京卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws
 北京卫视,http://gslbserv.itv.cmvideo.cn/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
-东方卫视,rtp://239.3.1.136:8032
+北京卫视,rtp://239.3.1.241:8000
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 东方卫视,http://116.23.137.243:4000/rtp/239.77.0.49:5146
 东方卫视,http://116.23.137.243:4000/rtp/239.77.1.48:5146
@@ -257,6 +256,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 东方卫视,http://58.248.112.205:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfFI8ayEeoekFD8P08%2F7EXF4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 东方卫视,http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=4cb7770cf7195c2891acab71a8b5139c0f4abf80546956b07e6b8dd94b49e4e8_1720508420_604800&fromCDN=ws
 东方卫视,http://gslbserv.itv.cmvideo.cn/6000000001000003639/1.m3u8?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=3
+东方卫视,rtp://239.3.1.136:8032
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 天津卫视,http://116.23.137.243:4000/rtp/239.77.0.52:5146
 天津卫视,http://116.23.137.243:4000/rtp/239.77.1.37:5146
@@ -268,7 +268,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 天津卫视,http://58.248.112.205:8006/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHaessbbY33u5MnZnHCFZZTIMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 天津卫视,http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=4d4c86675dc5e31f25de3766d077588bdbab6a5c7b52057ab88712a1cac4df7b_1720508477_604800&fromCDN=ws
 天津卫视,http://gslbserv.itv.cmvideo.cn/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
-重庆卫视,rtp://239.3.1.122:8160
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 重庆卫视,http://116.23.137.243:4000/rtp/239.77.0.63:5146
 重庆卫视,http://116.23.137.243:4000/rtp/239.77.1.16:5146
@@ -278,6 +277,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://58.248.112.205:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHS5XA1hsd3RREgysPiqqJeTFDuOvLs1zu4981Mqid2sx&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 重庆卫视,http://gslbserv.itv.cmvideo.cn/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
+重庆卫视,rtp://239.3.1.122:8160
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.0.58:5146
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.1.71:5146
@@ -289,7 +289,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 黑龙江卫视,http://58.248.112.205:8006/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYGO4sBlEXR27vS0rpENy%2BBCfQjfKrVAhZ7nyqv5N0cI&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 黑龙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
-吉林卫视,rtp://239.3.1.240:8172
 吉林卫视,http://116.23.137.243:4000/rtp/239.77.0.67:5146
 吉林卫视,http://116.23.137.243:4000/rtp/239.77.1.45:5146
 吉林卫视,http://116.23.137.243:4000/rtp/239.77.1.111:5146
@@ -298,7 +297,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 吉林卫视,http://58.248.112.205:8006/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSKeM%2FnJizcqZgRu5kTtQyRSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 吉林卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=aef69bf8c1b273132c0131c77a30e70de412ec16260723968deb9a2b8a769e5a_1720508592_604800&fromCDN=ws
 吉林卫视,http://gslbserv.itv.cmvideo.cn/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-辽宁卫视,rtp://239.3.1.210:8056
+吉林卫视,rtp://239.3.1.240:8172
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 辽宁卫视,http://116.23.137.243:4000/rtp/239.77.0.57:5146
 辽宁卫视,http://116.23.137.243:4000/rtp/239.77.1.62:5146
@@ -309,6 +308,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 辽宁卫视,http://58.248.112.205:8006/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHURqeVO49Tnq6K%2BWCd0TWOt4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 辽宁卫视,http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=33bd64ae442debde91e9f2e25fd1087a9924ad3708258c548faf04b8a757b0d4_1720508620_604800&fromCDN=ws
 辽宁卫视,http://gslbserv.itv.cmvideo.cn/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+辽宁卫视,rtp://239.3.1.210:8056
 内蒙古卫视,http://116.23.137.243:4000/rtp/239.77.0.70:5146
 内蒙古卫视,http://116.23.137.243:4000/rtp/239.77.1.55:5146
 内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -356,7 +356,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 陕西卫视,rtp://228.1.1.53:8140
 陕西卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 陕西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws
-河北卫视,rtp://239.3.1.148:8072
 河北卫视,http://116.23.137.243:4000/rtp/239.77.0.64:5146
 河北卫视,http://116.23.137.243:4000/rtp/239.77.1.60:5146
 河北卫视,http://116.23.137.243:4000/rtp/239.77.1.214:5146
@@ -365,7 +364,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 河北卫视,http://58.248.112.205:8006/GD_CUCC/G_HEBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQcq7ejyAAXuDG88sZCpS0RSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 河北卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=e80bcd155eabf8e0dbe4c1fa52d05d048c86c1398334b5085f6c985eb88548ca_1720508762_604800&fromCDN=ws
 河北卫视,http://gslbserv.itv.cmvideo.cn/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
-山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
+河北卫视,rtp://239.3.1.148:8072
 山西卫视,http://116.23.137.243:4000/rtp/239.77.0.69:5146
 山西卫视,http://116.23.137.243:4000/rtp/239.77.1.74:5146
 山西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -373,7 +372,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 山西卫视,http://192.168.123.1:23234/rtp/228.1.1.58:8172
 山西卫视,rtp://228.1.1.58:8172
-山东卫视,rtp://239.3.1.209:8052
+山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 山东卫视,http://116.23.137.243:4000/rtp/239.77.0.53:5146
 山东卫视,http://116.23.137.243:4000/rtp/239.77.1.66:5146
@@ -385,7 +384,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 山东卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHY%2BfIJoJ9xhIZtB7lTaNNRJ4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 山东卫视,http://gslbserv.itv.cmvideo.cn/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
-安徽卫视,rtp://239.3.1.211:8064
+山东卫视,rtp://239.3.1.209:8052
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 安徽卫视,http://116.23.137.243:4000/rtp/239.77.0.50:5146
 安徽卫视,http://116.23.137.243:4000/rtp/239.77.1.13:5146
@@ -396,6 +395,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 安徽卫视,http://58.248.112.205:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfKoKW8pLH0L%2FBk2FrKutcNTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 安徽卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=02a806c27a6d5b383b7e327402a6c5d9be864ee6bda1277c84b8bc14c914a579_1720508862_604800&fromCDN=ws
 安徽卫视,http://gslbserv.itv.cmvideo.cn/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
+安徽卫视,rtp://239.3.1.211:8064
 河南卫视,http://116.23.137.243:4000/rtp/239.77.0.61:5146
 河南卫视,http://116.23.137.243:4000/rtp/239.77.1.58:5146
 河南卫视,http://116.23.137.243:4000/rtp/239.77.1.229:5146
@@ -403,7 +403,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 河南卫视,http://58.248.112.205:8006/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWZ%2Fm7n7CVTCrcobp4nZ6sZSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 河南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=c7713f989c35d7b798afec34071e72743fa784617458f4679369d1842cd422ac_1720508889_604800&fromCDN=ws
 河南卫视,http://gslbserv.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-湖北卫视,rtp://239.3.1.138:8044
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.0.56:5146
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.1.44:5146
@@ -415,7 +414,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 湖北卫视,http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHc%2FzOJ%2F44TR7mqGS1%2Bw8V7hSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 湖北卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=b8f876f4b394029039b5d1733070c8731bc880530b0fb975397a5eeb37ca0cec_1720508906_604800&fromCDN=ws
 湖北卫视,http://gslbserv.itv.cmvideo.cn/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
-湖南卫视,rtp://239.3.1.132:8012
+湖北卫视,rtp://239.3.1.138:8044
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 湖南卫视,http://116.23.137.243:4000/rtp/239.77.0.46:5146
 湖南卫视,http://116.23.137.243:4000/rtp/239.77.1.29:5146
@@ -426,7 +425,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 湖南卫视,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 湖南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=d70b57aaeb691e28be8f737e9f9efa413979b27dfc97da8bc6b321c828e47010_1720508965_604800&fromCDN=ws
 湖南卫视,http://gslbserv.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
-江西卫视,rtp://239.3.1.123:8164
+湖南卫视,rtp://239.3.1.132:8012
 江西卫视,http://116.23.137.243:4000/rtp/239.77.0.54:5146
 江西卫视,http://116.23.137.243:4000/rtp/239.77.1.73:5146
 江西卫视,http://116.23.137.243:4000/rtp/239.77.1.219:5146
@@ -435,7 +434,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 江西卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHSFtNLUdun4aiq6hb34UOKeRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws
 江西卫视,http://gslbserv.itv.cmvideo.cn/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
-江苏卫视,rtp://239.3.1.135:8028
+江西卫视,rtp://239.3.1.123:8164
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 江苏卫视,http://116.23.137.243:4000/rtp/239.77.0.48:5146
 江苏卫视,http://116.23.137.243:4000/rtp/239.77.1.40:5146
@@ -447,7 +446,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 江苏卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe%2BuH8HDFS0PtokY11nWnf4MgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 江苏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=aca1430fdaf3c8056ece793a65c2fefdc1f59e648c06bf6e63572e4994caa97c_1720509054_604800&fromCDN=ws
 江苏卫视,http://gslbserv.itv.cmvideo.cn/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
-浙江卫视,rtp://239.3.1.137:8036
+江苏卫视,rtp://239.3.1.135:8028
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://116.23.137.243:4000/rtp/239.77.0.47:5146
 浙江卫视,http://116.23.137.243:4000/rtp/239.77.1.32:5146
@@ -459,7 +458,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 浙江卫视,http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://gslbserv.itv.cmvideo.cn/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
-东南卫视,rtp://239.3.1.156:8148
+浙江卫视,rtp://239.3.1.137:8036
 东南卫视,http://116.23.137.243:4000/rtp/239.77.0.65:5146
 东南卫视,http://116.23.137.243:4000/rtp/239.77.1.1:5146
 东南卫视,http://116.23.137.243:4000/rtp/239.77.1.213:5146
@@ -469,6 +468,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 东南卫视,http://58.248.112.205:8006/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQ3sVbVN1ZTQKUpnK8xcf7yRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 东南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=5fc20660dbcb940d20412d743ece597d91c8b06af193d6a9b81ad2781b1b8a54_1720509176_604800&fromCDN=ws
 东南卫视,http://gslbserv.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+东南卫视,rtp://239.3.1.156:8148
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
 厦门卫视,rtp://239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
@@ -498,7 +498,6 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 云南卫视,http://58.248.112.205:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHcpOXbCYIiVElKHA3dFAzTD1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 云南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=bd74183e409c86a54debf6f2452fcadd940a4b90a2e1f981832970d2f916a945_1720509300_604800&fromCDN=ws
 云南卫视,http://gslbserv.itv.cmvideo.cn/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
-贵州卫视,rtp://239.3.1.149:8076
 贵州卫视,http://116.23.137.243:4000/rtp/239.77.0.59:5146
 贵州卫视,http://116.23.137.243:4000/rtp/239.77.1.61:5146
 贵州卫视,http://116.23.137.243:4000/rtp/239.77.1.221:5146
@@ -507,6 +506,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 贵州卫视,http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWs5lc8HFQLTI9VPV%2F62TTuRQN%2BYLDq5f9pmexwERDLi&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 贵州卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=c2389ebe3248f5e8bb2be6ba564202250815c1ffce8bf911a01e5e09705f6576_1720509315_604800&fromCDN=ws
 贵州卫视,http://gslbserv.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
+贵州卫视,rtp://239.3.1.149:8076
 四川卫视,http://116.23.137.243:4000/rtp/239.77.0.60:5146
 四川卫视,http://116.23.137.243:4000/rtp/239.77.1.30:5146
 四川卫视,http://116.23.137.243:4000/rtp/239.77.1.215:5146
