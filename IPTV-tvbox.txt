@@ -403,6 +403,7 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 河南卫视,http://58.248.112.205:8006/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWZ%2Fm7n7CVTCrcobp4nZ6sZSM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 河南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=c7713f989c35d7b798afec34071e72743fa784617458f4679369d1842cd422ac_1720508889_604800&fromCDN=ws
 河南卫视,http://gslbserv.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+河南卫视,rtp://239.3.1.50:8184
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.0.56:5146
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.1.44:5146
