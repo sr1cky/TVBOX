@@ -3,7 +3,6 @@
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 广东,#genre#
-广东卫视,rtp://239.3.1.203:2000
 广东卫视,http://125.42.151.219:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://221.193.168.209:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://101.66.195.105:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -58,6 +57,7 @@
 广东卫视,http://1.197.84.239:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://101.66.198.44:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://101.66.198.170:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,rtp://239.3.1.203:2000
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -113,7 +113,6 @@
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,rtp://239.3.1.202:2000
 深圳卫视,http://125.42.151.219:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.193.168.243:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.193.168.209:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -140,6 +139,7 @@
 深圳卫视,http://gslbserv.itv.cmvideo.cn/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
 深圳卫视,http://125.42.150.164:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://27.8.233.159:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,rtp://239.3.1.202:2000
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.242:5146
 深圳体育健康,http://116.23.137.243:4000/rtp/239.77.1.8:5146
@@ -578,13 +578,14 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 宁夏卫视,http://101.66.194.193:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://1.195.130.102:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-甘肃卫视,rtp://239.3.1.201:8180
+宁夏卫视,rtp://239.3.1.169:8212
 甘肃卫视,http://116.23.137.243:4000/rtp/239.77.0.76:5146
 甘肃卫视,http://116.23.137.243:4000/rtp/239.77.1.57:5146
 甘肃卫视,http://116.23.137.243:4000/rtp/239.77.0.189:5146
 甘肃卫视,http://58.248.112.205:8006/GD_CUCC/G_GANSU-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHQqvE61CmV4kFMWXpFeskG1SM%2B19aM2hw2IMIRHBBV72&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 甘肃卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws
 甘肃卫视,http://gslbserv.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+甘肃卫视,rtp://239.3.1.201:8180
 青海卫视,http://115.48.161.155:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://115.48.160.227:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://116.23.137.243:4000/rtp/239.77.0.71:5146
@@ -1392,12 +1393,15 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 新疆卫视,http://1.195.130.102:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c32bc314dfdd41bf46f20a8179d1494db60d9ce810bb8e7be0ca092c84_1720509373_604800&fromCDN=ws
 新疆卫视,http://1.197.84.239:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,rtp://239.3.1.167:8192
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.0.77:5146
 兵团卫视,http://116.23.137.243:4000/rtp/239.77.1.80:5146
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+兵团卫视,rtp://239.3.1.168:8196
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 西藏卫视,http://116.23.137.243:4000/rtp/239.77.0.74:5146
 西藏卫视,http://116.23.137.243:4000/rtp/239.77.1.49:5146
+西藏卫视,rtp://239.3.1.166:8188
 海南卫视,http://116.23.137.243:4000/rtp/239.77.0.72:5146
 海南卫视,http://116.23.137.243:4000/rtp/239.77.1.51:5146
 海南卫视,http://116.23.137.243:4000/rtp/239.253.43.35:5146
