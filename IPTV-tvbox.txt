@@ -50,6 +50,7 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 广东卫视,http://125.125.233.219:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://101.66.199.115:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://101.66.199.132:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://125.43.240.203:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -274,6 +275,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 北京卫视,http://221.13.235.140:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://125.125.233.219:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://221.13.235.230:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://125.43.240.203:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://101.66.195.204:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://101.66.199.113:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://101.66.199.204:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -363,6 +365,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 重庆卫视,http://125.125.233.219:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.66.199.115:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://101.66.199.132:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://125.43.240.203:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://125.125.236.51:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://101.66.195.204:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://101.66.199.113:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -559,6 +562,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河北卫视,http://116.23.137.243:4000/rtp/239.77.0.148:5146
 河北卫视,http://101.66.199.115:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://101.66.199.132:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://125.43.240.203:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://1.195.130.102:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://101.66.195.204:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.199.113:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -754,6 +758,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 湖北卫视,http://116.23.137.243:4000/rtp/239.77.0.128:5146
 湖北卫视,http://101.66.199.115:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://101.66.199.132:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://125.43.240.203:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://101.66.195.204:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://125.125.236.51:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://101.66.199.198:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -798,6 +803,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 湖南卫视,http://221.13.235.95:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://101.66.199.115:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.199.132:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://125.43.240.203:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://101.66.195.204:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://101.66.199.198:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://101.66.199.204:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -872,6 +878,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 江苏卫视,http://221.13.235.140:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://101.66.199.115:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://101.66.199.132:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://125.43.240.203:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://101.66.195.204:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://125.125.236.51:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://101.66.199.113:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -912,6 +919,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 浙江卫视,http://221.13.235.140:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://101.66.199.115:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://101.66.199.132:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://125.43.240.203:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.66.195.204:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://125.125.236.51:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.66.199.113:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
