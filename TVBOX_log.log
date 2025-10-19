@@ -92059,3 +92059,148 @@ All files downloaded successfully!
 执行 auto-source.py...
 将 IPTV-tvbox.txt 文件复制到 TVBOX 文件夹...
 脚本执行完成。
+[main d32c6ba] Add file: IPTV-tvbox.txt
+ 2 files changed, 359 insertions(+), 167 deletions(-)
+To github.com:sr1cky/TVBOX.git
+   395fe3f..d32c6ba  main -> main
+文件推送完成。
+2025-10-18 15:00:01 - 脚本执行完成
+2025-10-19 15:00:01 - 开始执行脚本
+执行 auto-iptv/run.sh...
+执行 spider.sh...
+Error during request: 520 Server Error: <none> for url: http://tonkiang.us/?channel=%E7%BF%A1%E7%BF%A0
+Retrying... (Attempt 1/3)
+Error during request: 520 Server Error: <none> for url: http://tonkiang.us/?channel=%E7%BF%A1%E7%BF%A0
+Retrying... (Attempt 2/3)
+Error during request: 503 Server Error: Service Unavailable for url: http://tonkiang.us/?channel=%E7%BF%A1%E7%BF%A0
+Retrying... (Attempt 3/3)
+Traceback (most recent call last):
+  File "/root/auto-iptv/spider/spider.py", line 93, in <module>
+    print(f"Maximum number of retries reached for '{name}'. Moving to the next data.")
+NameError: name 'name' is not defined
+执行 m3u.sh...
+--2025-10-19 15:00:05--  https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYyNTI0MjU0NTQsImlhdCI6MTcwMzcyNTM0MSwiZXhwIjoxNzA2MzE3MzQxfQ.YaH-kyL1eySTSBwLcwjucDOAe34f_TJQ4WeCgB2HUao
+Resolving gyssi.link (gyssi.link)... 104.21.32.112, 172.67.151.20, 2606:4700:3032::6815:2070, ...
+Connecting to gyssi.link (gyssi.link)|104.21.32.112|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-10-19 15:00:06 ERROR 403: Forbidden.
+
+Traceback (most recent call last):
+  File "/root/auto-iptv/m3u/m3u2txt.py", line 11, in <module>
+    file_head = lines[0].split('name="')[1].split('"')[0]
+IndexError: list index out of range
+执行 down_txt.sh...
+--2025-10-19 15:00:09--  https://tv.lan2wan.top/live.txt
+Resolving tv.lan2wan.top (tv.lan2wan.top)... 54.215.31.113
+Connecting to tv.lan2wan.top (tv.lan2wan.top)|54.215.31.113|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gotowww.72.chat/3d/?lan2wan.top [following]
+--2025-10-19 15:00:29--  https://gotowww.72.chat/3d/?lan2wan.top
+Resolving gotowww.72.chat (gotowww.72.chat)... 112.15.31.164, 118.252.0.68, 218.98.18.200, ...
+Connecting to gotowww.72.chat (gotowww.72.chat)|112.15.31.164|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.sqllq.com/en/?lan2wan.top [following]
+--2025-10-19 15:00:31--  https://www.sqllq.com/en/?lan2wan.top
+Resolving www.sqllq.com (www.sqllq.com)... 104.21.30.80, 172.67.172.129, 2606:4700:3030::ac43:ac81, ...
+Connecting to www.sqllq.com (www.sqllq.com)|104.21.30.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘./txt/live.txt’
+
+     0K .....                                                  19.7M=0s
+
+2025-10-19 15:00:31 (19.7 MB/s) - ‘./txt/live.txt’ saved [5135]
+
+Downloaded: /root/auto-iptv/txt/txt/fmml_ipv6.txt
+Downloaded: /root/auto-iptv/txt/txt/fmml_itv.txt
+Downloaded: /root/auto-iptv/txt/txt/fmml_index.txt
+Downloaded: /root/auto-iptv/txt/txt/ycl_iptv.txt
+Downloaded: /root/auto-iptv/txt/txt/cymz6_lives.txt
+Downloaded: /root/auto-iptv/txt/txt/y_g.txt
+Downloaded: /root/auto-iptv/txt/txt/j_home.txt
+Downloaded: /root/auto-iptv/txt/txt/j_iptv.txt
+Downloaded: /root/auto-iptv/txt/txt/o_all.txt
+Downloaded: /root/auto-iptv/txt/txt/o_cn.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_112114.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_cctv.txt
+Downloaded: /root/auto-iptv/txt/txt/o_s_cn_cgtn.txt
+Downloaded: /root/auto-iptv/txt/txt/cn.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_n.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_c.txt
+Downloaded: /root/auto-iptv/txt/txt/cn_p.txt
+Downloaded: /root/auto-iptv/txt/txt/all.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_unicom.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_unicom_m.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_mobile.txt
+Downloaded: /root/auto-iptv/txt/txt/q_bj_iptv_mobile_m.txt
+All files downloaded successfully!
+全部文件已转换成功!
+执行 txt2db.py...
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+删除过期数据完成。
+数据导入完成。
+执行 auto-source.py...
+将 IPTV-tvbox.txt 文件复制到 TVBOX 文件夹...
+脚本执行完成。
