@@ -932,6 +932,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 CHC高清电影,http://116.23.137.243:4000/rtp/239.77.0.27:5146
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 河北影视,http://101.74.28.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视,http://121.19.134.246:808/hls/22/index.m3u8
 北京影视,rtp://239.3.1.158:8000
