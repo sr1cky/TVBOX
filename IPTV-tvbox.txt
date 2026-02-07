@@ -46,6 +46,7 @@
 广东卫视,http://58.248.112.205:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfgbSbSCTYnboG1IAsnN%2B8QE6B7fY0qM5PCisIiFJCnl&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 广东卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=59fd71bc9ab8ccb098e20dba7502351a73b4a120648316b836686754ebd7dbd2_1720509211_604800&fromCDN=ws
 广东卫视,http://gslbserv.itv.cmvideo.cn/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
+广东卫视,http://36.136.38.87:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.3:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.1.94:5146
 广东珠江,http://116.23.137.243:4000/rtp/239.77.0.1:5146
@@ -736,6 +737,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 安徽卫视,http://58.248.112.205:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfKoKW8pLH0L%2FBk2FrKutcNTsBzPp9x%2Bi0NFonroQm9c&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 安徽卫视,http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=02a806c27a6d5b383b7e327402a6c5d9be864ee6bda1277c84b8bc14c914a579_1720508862_604800&fromCDN=ws
 安徽卫视,http://gslbserv.itv.cmvideo.cn/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
+安徽卫视,http://36.136.38.87:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://101.66.199.23:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://101.66.199.25:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://101.66.199.115:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -954,6 +956,8 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 江苏卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe%2BuH8HDFS0PtokY11nWnf4MgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 江苏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=aca1430fdaf3c8056ece793a65c2fefdc1f59e648c06bf6e63572e4994caa97c_1720509054_604800&fromCDN=ws
 江苏卫视,http://gslbserv.itv.cmvideo.cn/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
+江苏卫视,http://111.9.163.109:55555/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://36.136.38.87:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://101.66.199.23:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://101.66.199.25:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://101.66.199.115:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -996,6 +1000,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 浙江卫视,http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://gslbserv.itv.cmvideo.cn/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
+浙江卫视,http://36.136.38.87:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://101.66.199.23:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://101.66.199.25:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://101.66.199.115:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1193,6 +1198,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 四川卫视,http://58.248.112.205:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHShysHnFVsdNiy%2FnVMuA%2F2ui53pLIt5xLZYRaSNohMBM&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 四川卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=539d7323a2cbb4240388051e285321f2684e79db2a7c484168b386d99dc393b3_1720509350_604800&fromCDN=ws
 四川卫视,http://gslbserv.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+四川卫视,http://36.136.38.87:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,rtp://239.3.1.167:8192
 新疆卫视,http://222.134.245.16:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://116.23.137.243:4000/rtp/239.77.0.75:5146
