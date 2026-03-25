@@ -92,6 +92,7 @@
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.1.148:5146
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.0.92:5146
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.0.130:5146
+深圳卫视,http://182.114.49.42:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.22:5146
 深圳财经生活,http://116.23.137.243:4000/rtp/239.77.1.242:5146
 深圳体育健康,http://116.23.137.243:4000/rtp/239.77.1.8:5146
@@ -257,6 +258,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 东方卫视,http://101.66.195.165:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://101.66.194.128:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://101.66.194.233:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://182.114.49.28:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,rtp://239.3.1.141:1234
 天津卫视,http://115.48.161.88:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://58.248.112.205:8006/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHaessbbY33u5MnZnHCFZZTIMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
@@ -425,6 +427,8 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://101.66.195.165:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.194.128:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.194.233:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://182.114.49.42:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://182.114.49.28:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://101.66.199.78:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://101.66.199.142:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://182.114.50.84:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
