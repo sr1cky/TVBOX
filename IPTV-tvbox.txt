@@ -351,6 +351,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 重庆卫视,http://1.197.250.211:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.66.199.43:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://101.66.199.188:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://125.43.244.73:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.0.58:5146
 黑龙江卫视,http://116.23.137.243:4000/rtp/239.77.1.71:5146
@@ -557,6 +558,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://101.66.199.43:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.199.188:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://182.114.49.159:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://125.43.244.73:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://1.197.250.86:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 山东卫视,http://116.23.137.243:4000/rtp/239.77.0.53:5146
@@ -631,6 +633,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 安徽卫视,http://125.125.236.45:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://125.42.150.238:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://182.114.49.159:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://125.43.244.73:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,rtp://239.3.1.50:8184
 河南卫视,http://116.23.137.243:4000/rtp/239.77.0.61:5146
 河南卫视,http://116.23.137.243:4000/rtp/239.77.1.58:5146
@@ -878,6 +881,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 东南卫视,http://101.66.199.188:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://125.125.236.45:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://125.42.150.238:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://125.43.244.73:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://116.23.137.243:4000/rtp/239.77.0.96:5146
 厦门卫视,rtp://239.3.1.143:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
