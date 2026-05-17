@@ -57,7 +57,6 @@
 广东影视,http://116.23.137.243:4000/rtp/239.77.0.217:5146
 广东少儿,http://116.23.137.243:4000/rtp/239.77.0.12:5146
 广东少儿,http://116.23.137.243:4000/rtp/239.77.0.250:5146
-嘉佳卡通,http://123.55.3.35:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://116.23.137.243:4000/rtp/239.77.0.13:5146
 嘉佳卡通,http://116.23.137.243:4000/rtp/239.77.1.15:5146
 嘉佳卡通,http://116.23.137.243:4000/rtp/239.77.0.179:5146
@@ -87,7 +86,6 @@
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.70:5146
 广州竞赛,http://116.23.137.243:4000/rtp/239.253.43.75:5146
 南国都市,http://116.23.137.243:4000/rtp/239.253.43.99:5146
-深圳卫视,http://123.55.3.35:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.0.55:5146
 深圳卫视,http://116.23.137.243:4000/rtp/239.77.1.21:5146
@@ -524,7 +522,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 山西卫视,http://101.66.198.224:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.198.233:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
-山东卫视,http://123.55.3.35:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://182.114.49.159:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://101.66.198.69:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://101.66.198.95:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -618,7 +615,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河南卫视,http://101.66.198.233:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://182.114.50.12:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://123.55.3.35:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://101.66.198.69:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://101.66.198.95:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://101.66.198.164:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
