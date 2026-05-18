@@ -323,7 +323,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 重庆卫视,http://101.66.198.224:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://101.66.198.233:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,rtp://239.3.1.122:8160
-黑龙江卫视,rtp://239.3.1.133:8016
 黑龙江卫视,http://101.66.198.69:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://101.66.198.95:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://101.66.198.164:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -353,6 +352,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 黑龙江卫视,http://101.66.198.102:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://101.66.198.224:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://101.66.198.233:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,rtp://239.3.1.133:8016
 吉林卫视,http://101.66.198.69:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://101.66.198.95:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://101.66.198.164:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -438,7 +438,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视,http://jxcbn.ws-cdn.gitv.tv/hls/QHWS/index.m3u8?gMac=unknown&livodToken=495e44fa15aa6f066ed03ad059c8141856fd0591fd05036b71f202d50d2ee91f_1720508709_604800&fromCDN=ws
 青海卫视,http://gslbserv.itv.cmvideo.cn/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
-陕西卫视,http://182.114.49.159:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://101.66.198.69:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://101.66.198.95:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://101.66.198.164:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -494,7 +493,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 河北卫视,http://101.66.198.224:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://101.66.198.233:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,rtp://239.3.1.148:8072
-山西卫视,http://182.114.49.159:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://125.43.244.73:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://101.66.198.69:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://101.66.198.95:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
