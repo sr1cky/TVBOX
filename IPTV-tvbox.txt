@@ -320,6 +320,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 内蒙古卫视,rtp://228.1.1.59:8176
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://jxcbn.ws-cdn.gitv.tv/hls/NMGWS/index.m3u8?gMac=unknown&livodToken=a09588cc53538af6402a57be79ed9490f6cdcdaef12f38888e5a3365a7a4d7c1_1720508643_604800&fromCDN=ws
+内蒙古卫视,rtp://239.3.1.204:8224
 宁夏卫视,rtp://239.3.1.169:8212
 宁夏卫视,http://116.23.137.243:4000/rtp/239.77.0.73:5146
 宁夏卫视,http://116.23.137.243:4000/rtp/239.77.1.47:5146
@@ -354,6 +355,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 陕西卫视,rtp://228.1.1.53:8140
 陕西卫视,http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 陕西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/SXTV/index.m3u8?gMac=unknown&livodToken=c553bb820ba0fceee866c695e3e7ca27fc9cd874769c2d9c16cadad386c4a71e_1720508744_604800&fromCDN=ws
+陕西卫视,rtp://239.3.1.203:8220
 河北卫视,http://101.66.198.55:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://101.66.198.179:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://101.66.198.245:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -616,6 +618,7 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 海南卫视,http://58.248.112.205:8006/GD_CUCC/G_HAINAN-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHTh7JGAu1YMGJ6XT%2FnqLPsRZEJK%2BpW4Fs700noHhVlGc&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 海南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
 海南卫视,http://gslbserv.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+海南卫视,rtp://239.3.1.205:8228
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.0.152:5146
 三沙卫视,http://116.23.137.243:4000/rtp/239.77.1.117:5146
 三沙卫视,rtp://239.3.1.155:4120
@@ -627,5 +630,6 @@ CCTV-17,http://116.23.137.243:4000/rtp/239.77.0.198:5146
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://116.23.137.243:4000/rtp/239.77.0.27:5146
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC动作电影,rtp://239.3.1.106:8001
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 北京影视,rtp://239.3.1.158:8000
